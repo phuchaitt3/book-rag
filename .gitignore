@@ -1,0 +1,11 @@
+# Secrets and sensitive configuration files
+Source_Code/Web/config.json
+Source_Code/Web/nlp-qn-ocr-52d2089850a1.json
+Source_Code/Evaluation/config.json
+
+# Add any other common patterns for environment variables/credentials you might use
+.env
+*.env
+*.key
+*.pem
+credentials.json
