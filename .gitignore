@@ -9,3 +9,8 @@ Source_Code/Evaluation/config.json
 *.key
 *.pem
 credentials.json
+
+# Repomix AI packed files
+repomix-output.xml
+repomix-output.txt
+repomix-output.md
