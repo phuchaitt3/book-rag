@@ -14,3 +14,6 @@ credentials.json
 repomix-output.xml
 repomix-output.txt
 repomix-output.md
+
+group_chat.txt
+.venv/
